@@ -1,4 +1,4 @@
-h1 align="center">Disease.sh</h1>
+<h1 align="center">Disease.sh with Axios (Javascript Library)</h1>
 
 <p align="center">
   <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" with="128" height="128" /><br>
