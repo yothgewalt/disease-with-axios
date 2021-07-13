@@ -6,7 +6,7 @@
 </p>
 
 <hr>
-
+<br>
 ## Example of Code
 Sample code that uses the API on our website. (Axios - CDN)
 
