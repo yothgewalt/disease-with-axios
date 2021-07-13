@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://i.imgur.com/9bCRbMm.jpg" alt="result" /><br>
   <br>
+  <i>We use the <a href="https://corona.lmao.ninja/">disease.sh</a> website API to display the COVID data on our own website.</i>
 </p>
 
 <hr>
