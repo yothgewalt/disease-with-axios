@@ -1,0 +1,113 @@
+/* Noto Sans UI (Thai) */
+@font-face {
+  font-family: "Noto Sans";
+  font-weight: 100;
+  font-style: normal;
+  src: url(../../fonts/noto_sans_ui_thai/NotoSansThaiUI-Thin.ttf);
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-weight: 200;
+  font-style: normal;
+  src: url(../../fonts/noto_sans_ui_thai/NotoSansThaiUI-ExtraLight.ttf);
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-weight: 300;
+  font-style: normal;
+  src: url(../../fonts/noto_sans_ui_thai/NotoSansThaiUI-Light.ttf);
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-weight: 400;
+  font-style: normal;
+  src: url(../../fonts/noto_sans_ui_thai/NotoSansThaiUI-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-weight: 500;
+  font-style: normal;
+  src: url(../../fonts/noto_sans_ui_thai/NotoSansThaiUI-Medium.ttf);
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-weight: 700;
+  font-style: normal;
+  src: url(../../fonts/noto_sans_ui_thai/NotoSansThaiUI-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-weight: 800;
+  font-style: normal;
+  src: url(../../fonts/noto_sans_ui_thai/NotoSansThaiUI-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: "Noto Sans";
+  font-weight: 900;
+  font-style: normal;
+  src: url(../../fonts/noto_sans_ui_thai/NotoSansThaiUI-Black.ttf);
+}
+
+/* Sarabun */
+@font-face {
+  font-family: "Sarabun";
+  font-weight: 100;
+  font-style: normal;
+  src: url(../../fonts/sarabun/Sarabun-Thin.ttf);
+}
+
+@font-face {
+  font-family: "Sarabun";
+  font-weight: 200;
+  font-style: normal;
+  src: url(../../fonts/sarabun/Sarabun-ExtraLight.ttf);
+}
+
+@font-face {
+  font-family: "Sarabun";
+  font-weight: 300;
+  font-style: normal;
+  src: url(../../fonts/sarabun/Sarabun-Light.ttf);
+}
+
+@font-face {
+  font-family: "Sarabun";
+  font-weight: 400;
+  font-style: normal;
+  src: url(../../fonts/sarabun/Sarabun-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Sarabun";
+  font-weight: 500;
+  font-style: normal;
+  src: url(../../fonts/sarabun/Sarabun-Medium.ttf);
+}
+
+@font-face {
+  font-family: "Sarabun";
+  font-weight: 600;
+  font-style: normal;
+  src: url(../../fonts/sarabun/Sarabun-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: "Sarabun";
+  font-weight: 700;
+  font-style: normal;
+  src: url(../../fonts/sarabun/Sarabun-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Sarabun";
+  font-weight: 800;
+  font-style: normal;
+  src: url(../../fonts/sarabun/Sarabun-ExtraBold.ttf);
+}

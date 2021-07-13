@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Disease.sh with Axios — Eineschlacht</title>
+        <link rel="stylesheet" type="text/css" href="stylesheet/scss/designer.css" />
+        <script defer src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" integrity="sha384-haqrlim99xjfMxRP6EWtafs0sB1WKcMdynwZleuUSwJR0mDeRYbhtY+KPMr+JL6f" crossorigin="anonymous"></script>
+        <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+        <link rel="manifest" href="images/site.webmanifest">
+    </head>
+    <body>
+        <div class="wrapper-statistics">
+            <div class="flex-general-statistics">
+                <div class="block-statistics">
+                    <h1 class="syringe"><i class="fas fa-syringe"></i> ฉีดวัคซีน</h1>
+                    <span class="suppressor-text">จํานวนวัคซีนต่อโดสที่ได้ฉีดไปแล้วในประเทศ</span>
+                    <div class="flex-center-int-statistics">
+                        <h2 class="vaccinated-color" id="vaccinated"></h2>
+                    </div>
+                </div>
+                <div class="block-statistics">
+                    <h1 class="disease"><i class="fas fa-disease"></i> เคสต่อวัน</h1>
+                    <span class="suppressor-text">จํานวนเคสที่ติดเชื้อไวรัสโควิดต่อวันในประเทศ</span>
+                    <div class="flex-center-int-statistics">
+                        <h2 class="cases-today-color" id="cases-today"></h2>
+                    </div>
+                </div>
+                <div class="block-statistics">
+                    <h1 class="book-dead"><i class="fas fa-book-dead"></i> ตายต่อวัน</h1>
+                    <span class="suppressor-text">จํานวนคนที่ตายเพราะโควิดต่อวันในประเทศ</span>
+                    <div class="flex-center-int-statistics">
+                        <h2 class="deaths-today-color" id="deaths-today"></h2>
+                    </div>
+                </div>
+            </div>
+            <div class="author-block">
+                <h1 class="author-name">Eine Mutige Schlacht</h1>
+            </div>
+        </div>
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <script type="text/javascript" src="disease.js"></script>
+    </body>
+</html>
