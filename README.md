@@ -9,7 +9,7 @@
 <hr>
 
 ## Example of Code
-Sample code that uses the API on our website. (Axios - CDN)
+Sample code that uses the API on our website. (Axios)
 
 ```js
 const vaccinated = document.getElementById('vaccinated');
